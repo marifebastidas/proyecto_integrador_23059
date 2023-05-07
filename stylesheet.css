@@ -1,0 +1,16 @@
+body {
+    box-sizing: border-box;
+}
+
+/*--Navbar--*/
+
+#shopping-link {
+    color: green;
+}
+
+/*--Footer--*/
+
+footer {
+    background-color: #2f4f4f;
+}
+
